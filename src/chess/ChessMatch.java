@@ -114,7 +114,6 @@ public class ChessMatch {
 		else {
 			enPassantVulnerable = null;
 		}
-		
 		return (ChessPiece) capturedPiece;
 	}
 	
